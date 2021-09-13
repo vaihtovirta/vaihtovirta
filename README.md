@@ -1,6 +1,6 @@
 Hello, I'm Emil 👋
 
-- Tech lead at @Savedo
+- Team lead at [fairmoney.io](https://www.fairmoney.io)
 - 📍 Berlin, Germany
 
 # Programming languages
