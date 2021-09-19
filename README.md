@@ -3,16 +3,9 @@ Hello, I'm Emil 👋
 - Team lead at [fairmoney.io](https://www.fairmoney.io)
 - 📍 Berlin, Germany
 
-# Programming languages
-
-- Ruby
-- Golang
-- Javascript
-- Java
-
 # Links
 
-- [personal page](https://emil.sh/)
+- [emil.sh](https://emil.sh/)
 - [linkedin](https://www.linkedin.com/in/eshakirov)
 - [instagram](https://www.instagram.com/ueberauslaender)
 
