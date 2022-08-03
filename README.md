@@ -1,6 +1,6 @@
 Hello, I'm Emil 👋
 
-- Team lead at [fairmoney.io](https://www.fairmoney.io)
+- Engineering manager at [fairmoney.io](https://www.fairmoney.io)
 - 📍 Berlin, Germany
 
 # Links
